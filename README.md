@@ -1,5 +1,5 @@
 # Tableau-Homework---Citi-Bike-Analytics
-Here is a link to my Tableau Dashboard:  [https://public.tableau.com/app/profile/irina.gasnikova]
+Here is a link to my Tableau Dashboard:  [https://public.tableau.com/authoring/Dashboard1-CitiBikeAnalytics/Story1#1]
 In this assignment I  aggregated the data found in the Citi Bike Trip History Logs to find two unexpected phenomena. I chose date for 2018 and 2019 years.
 I wanted co compare the usage of citi bike before and during COVID time. I found a few interesting phenomena.
 1. The usage of citibike in 2019 increased by 14%.
